@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <img src="mybanner.jpg">
+    <head>
+       
+        <meta charset="utf-8">
+        <title>Kassondra''s Programming Portfolio</title>
+    </head>
+    <body background="glitter.jpg"> 
+        
+   <p> Hi my name is Kassondra Brown. My friends call me KB. I am a NCAA Women's Basketball PLayer at the Univrsity of Rhode Island. I am from Pennsylvania. I chose this course because computer science is interesting to me and it is fun. 
+   </p>
+        
+        
+        <thead cellspacing="20px">
+            <tr>
+                <th>
+                    <a href="index.html" style="padding:5px">
+                        <img src="home2.jpg">
+                        
+                     
+                    </a>
+                </th>
+                <th>
+                    <a href="javascripts.html" style="padding:5px">
+                        <img src="aboutme2.jpg">
+                    </a>
+                </th>
+                <th>
+                    <a href="aboutme.html" style="padding:5px">
+                        <img src="javascripts2.jpg">
+                    </a>
+                </th>
+            </tr> 
+            
+        </thead>
+       <h1>Welcome to Kassondra's Programming Portfolio</h1>
+     
+        
+    </body>
+</html>
